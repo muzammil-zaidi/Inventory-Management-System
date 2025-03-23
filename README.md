@@ -37,8 +37,6 @@ The **Inventory Management System** is a C project developed during the Fall 202
 - Use appropriate options to add, update, or remove inventory items.
 - Ensure that data is correctly saved in the corresponding file for future access.
 
-## Contribution
-Feel free to contribute by submitting pull requests or reporting issues!
 
 ## Contact
 For any queries, contact me at: **muzammil.s3517@gmail.com**
